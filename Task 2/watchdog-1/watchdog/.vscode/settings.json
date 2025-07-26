@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "uartstdio.h": "c",
+        "watchdog.h": "c",
+        "timer.h": "c"
+    }
+}

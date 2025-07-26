@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sysctl.h": "c",
+        "uart.h": "c",
+        "touch.h": "c"
+    }
+}
